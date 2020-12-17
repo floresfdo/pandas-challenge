@@ -1,6 +1,6 @@
 # pandas-challenge
 
-Data Bootcamp Pandas Homework
+Data Bootcamp Pandas Homework - Analysis is included in bottom part of README.
 
 PyCitySchools/main.ipynb
 
